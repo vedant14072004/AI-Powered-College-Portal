@@ -1,4 +1,4 @@
-# 🎓 GPT AI Assistant For Task Automation
+# 🎓 AI-Powered College Portal
 
 A full-stack AI-powered college assistant for **Prof. Ram Meghe Institute of Technology & Research, Badnera-Amravati**.
 
